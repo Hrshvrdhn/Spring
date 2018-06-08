@@ -176,17 +176,6 @@
 		<!-- <dependency> <groupId>org.springframework.data</groupId> <artifactId>spring-data-jpa</artifactId> 
 			</dependency> -->
 
-		<dependency>
-			<groupId>com.ibm.db2.jcc</groupId>
-			<artifactId>db2jcc4</artifactId>
-			<version>10.1</version>
-		</dependency>
-
-		<dependency>
-			<groupId>com.ibm.db2</groupId>
-			<artifactId>db2jcc_license_cu</artifactId>
-			<version>9.7</version>
-		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-dbcp2 -->
 		<dependency>
